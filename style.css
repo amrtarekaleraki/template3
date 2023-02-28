@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #777;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
+.fixed1
+{
+    background-image: url(./images/n5.jpg);
+}
+
+.fixed {
+    background-attachment: fixed;
+    background-size: cover;
+    height: 250px;
+}
+
+.myicon
+{
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    border-radius: 17px;
+}
